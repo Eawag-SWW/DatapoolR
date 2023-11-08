@@ -1,0 +1,12 @@
+Package: DatapoolR
+Type: Package
+Title: Package to simplify accessing the Urban Water Observatory datapool
+Version: 0.2.0
+Date: 2018-06-05
+Author: Andreas Scheidegger
+Maintainer: Andy Disch <andy.disch@eawag.ch>
+Description: This package is intended to be used within the Eawag intranet.
+License: Proprietary
+Imports: RPostgreSQL (>= 0.4), DBI (>= 0.6-1), lubridate, xts, tidyr, dygraphs, ini
+RoxygenNote: 6.1.1
+Suggests: testthat
